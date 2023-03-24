@@ -102,3 +102,9 @@ We will use the 5 Whys technique to determine the root cause by repeatedly askin
 In conclusion, Web Development is the most popular subject on Udemy with the highest number of subscribers and total revenue. In addition, we found that the most expensive Web Development courses are at the Intermediate Level while the least expensive are at the Expert Level. Furthermore, Graphics Design courses at the Expert Level have the highest average reviews and the lowest average cost.
 Using the 5 Whys technique, I discovered that the root cause of low earnings on some courses is that they are low-value courses, which may be due to course creators lacking expertise or resources to create high-quality courses. This suggests that providing proper training and guidance to course creators on how to create effective and engaging course content could improve the value of courses and increase earnings for Udemy.
 
+
+## APPENDIX
+
+Tableau Data Visualization For Google Play App Performance Project
+
+https://public.tableau.com/views/GooglePlaystoreAppPerformanceAnalysisUpdated/GooglePlaystoreAppPerformanceDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
