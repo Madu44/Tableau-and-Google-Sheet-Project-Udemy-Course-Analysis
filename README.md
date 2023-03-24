@@ -1,5 +1,5 @@
 # UDEMY COURSE ANALYSIS PROJECT
-An Excel and Tableau project carried out during my Data Analyst training with EntryLevel
+An Excel and Tableau project carried out during my Data Analyst training with EntryLevel. This happens to be my first case study project.
 
 # PROJECT DESCRIPTION
 
